@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+  
+   
+}
+
+.container {
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #14C38E;
+    width: 50%;
+}
+
+
+
+.newTaskInput{
+    width: 30%;
+}
+
+.deleteBtn{
+   
+    background-color: red;
+    
+}
+
